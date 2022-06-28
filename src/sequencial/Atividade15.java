@@ -41,6 +41,7 @@ public class Atividade15 {
 		System.out.printf("Sindicato (5 porcento) : R$ %.2f\n", desconto3);
 		System.out.printf("Salário líquido : R$ %.2f\n", salarioLiquido);
 		
+		
 		input.close();
 
 	}
