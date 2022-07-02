@@ -2,7 +2,7 @@ package repeticao;
 
 import java.util.Scanner;
 
-public class Atividae04 {
+public class Atividade04 {
 
 	public static void main(String[] args) {
 		/*
